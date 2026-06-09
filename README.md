@@ -5,8 +5,11 @@
 **INTERNSHIP DETAILS**
 
 Name: Bonthala Supriya Sindhu
+
 Company: CODTECH IT Solutions Private Limited
+
 Domain: Data Sciencs
+
 Duration: 6 Weeks
 
 **REPOSITORY OVERVIEW**
